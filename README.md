@@ -61,7 +61,7 @@ The user should have the following things installed
    ```JS
    node server.js
    ```
-2. Open localhost:(port-number)
+2. Open localhost using the port number on which Server is running
    ```JS
    Server is up on --port-number
    ```
