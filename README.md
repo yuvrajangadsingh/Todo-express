@@ -6,6 +6,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -13,21 +14,21 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 This is a Simple To-do web app which helps in maintaining the day to day tasks for an indiviual. This app uses mongodb as a database where the user can store data.
 
 ### Built With
 
-* [NodeJS](https://nodejs.org)
-* [ExpressJS](https://expressjs.com)
-* [MongoDB](https://mongodb.com)
-* [EJS](https://ejs.co)
-
+- [NodeJS](https://nodejs.org)
+- [ExpressJS](https://expressjs.com)
+- [MongoDB](https://mongodb.com)
+- [EJS](https://ejs.co)
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -37,9 +38,9 @@ To get a local copy up and running follow these simple example steps.
 
 The user should have the following things installed
 
-* MongoDB
-* NodeJS
-* npm
+- MongoDB
+- NodeJS
+- npm
   ```sh
   npm install npm@latest -g
   ```
@@ -50,17 +51,21 @@ The user should have the following things installed
    ```sh
    git clone https://github.com/yuvrajangadsingh/Todo-express.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Run the Server
+3. Run the Server
    ```JS
    node server.js
    ```
-
+4. Visit the Server Port
+   ```JS
+   Server is up on --port-number
+   ```
 
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -71,26 +76,23 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Yuvraj Angad Singh - [@YuvrajAngadS](https://twitter.com/YuvrajAngadS) - yuvrajangad.s@gmail.com
 
 Project Link: [https://github.com/yurvajangadsingh/Todo-express](https://github.com/yuvrajangadsingh/Todo-express)
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/yuvrajangadsingh/Todo-express.svg?style=for-the-badge
 [contributors-url]: https://github.com/yuvrajangadsingh/Todo-express/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/yuvrajangadsingh/Todo-express.svg?style=for-the-badge
