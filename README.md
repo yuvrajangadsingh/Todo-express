@@ -52,11 +52,16 @@ The user should have the following things installed
    ```sh
    npm install
    ```
-3. Run the Server
+
+<!-- USAGE EXAMPLES -->
+
+## Usage
+
+1. Run the Server
    ```JS
    node server.js
    ```
-4. Visit the Server Port
+2. Visit the Server Port
    ```JS
    Server is up on --port-number
    ```
