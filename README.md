@@ -106,4 +106,4 @@ Project Link: [https://github.com/yurvajangadsingh/Todo-express](https://github.
 [license-shield]: https://img.shields.io/github/license/yuvrajangadsingh/Todo-express.svg?style=for-the-badge
 [license-url]: https://github.com/yuvrajangadsingh/Todo-express/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/yuvraj-angad-singh-987887186/
+[linkedin-url]: https://www.linkedin.com/in/yuvrajangadsingh/
